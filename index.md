@@ -68,3 +68,8 @@ def menu():
 if __name__ == "__main__":
     menu()
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
